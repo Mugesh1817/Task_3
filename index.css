@@ -1,0 +1,236 @@
+body{
+    max-width: 1500px;
+}
+    .fa-phone{
+    font-size: 10px;
+    float: right;
+    margin-right: 700px;
+    margin-top: 38px;
+    padding: 10px;
+    color: white;
+    background-color: black;
+    border-radius: 15px;
+}
+.phone1{
+    float: right;
+    font-weight: bold;
+    margin-right: -150px;
+    margin-top: 40px;
+    font-size: 25px;
+}
+.number1{
+    color: black;
+}
+.main{
+    border: 1px solid;
+    border-radius: 8px;
+    padding: 5px;
+}
+.main:hover{
+    background-color: pink;
+}
+.logo1{
+    margin-left: 150px;
+}
+.cap{
+    font-size: 20px;
+    margin-left: 500px;
+    display:inline;
+    }
+
+a{
+    font-size: 20px;
+    padding: 10px;
+    color: ghostwhite;
+    text-decoration: none;
+}
+a:hover{
+    color:darkred;
+}
+
+input{
+    float: right;
+    display: block;
+    margin-top: -100px;
+    margin-right: 100px;
+}
+
+
+.nav{
+    list-style-type: none;
+    background-color:#0b5edb;
+    left: 300px;
+    margin: 0;
+
+}
+li{
+    display: inline;
+    padding: 20px;
+    font-size: 25px;
+    font-weight: bold;
+    
+}
+
+.tt{
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.tt:hover {
+    color: white;
+}
+.sign{
+    padding: 10px;
+    margin-left: 400px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: greenyellow;
+    color: black;
+}
+.sign:hover{
+    background-color: black;
+    color: white;
+}
+
+.login{
+    padding: 10px;
+    margin-left: 50px;
+    font-weight: bold;
+    border-radius: 10px;
+    background-color: greenyellow;
+    color: black;
+}
+
+.login:hover{
+    background-color: black;
+    color: white;
+}
+
+
+.card{
+    width: 300px;
+    background-color: lightyellow;
+    border-radius: 10px;
+    box-shadow: 2px 2px 10px black;
+    display: inline-block;
+    margin-left: 110px;
+    
+}
+
+.honame{
+    text-align: center;
+    
+}
+.btn{
+    padding: 10px;
+    border: 1px solid beige;
+    background-color: darkred;
+    border-radius: 8px;
+    color: white;
+    font-weight: bold;
+}
+.btn:hover{
+    background-color: darkgreen;
+}
+.image img{
+    border-top-left-radius: 5px;
+    border-top-right-radius:5px ;
+}
+
+#head{
+    margin-left: 100px;
+}
+
+#trip{
+    margin-left: 100px;
+}
+
+.deal img {
+    box-shadow: 2px 2px 10px black;
+    
+
+}
+.deal1{
+    margin-left: 100px;
+    height: 300px;
+}
+.deal2{
+    margin-left: 150px;
+    height: 300px;
+}
+
+.fee{
+    padding: 15px;
+    background-color: lightpink;
+    font-size: 30px;
+    margin-left: 100px;
+    width: 1130px;
+    margin-bottom: 20px;
+}
+.top2{
+    background-color:lightgrey;
+}
+
+.ree{
+    margin-left: 100px;
+    font-weight: bold;
+    margin-top: 10px;
+}
+
+.yyy{
+    display: block;
+    font-size: 15px;
+    padding: 0;
+    font-weight: lighter;
+    margin-left: 60px;
+}
+
+.eee{
+    margin: 10px;
+    display: inline-block;
+    font-size: 20px;
+}
+.fff{
+     margin-top: -175px;
+    margin-left: 200px;
+    font-size: 20px;
+    }
+    .pp{
+        margin-top: -100px;
+    }
+    .icc{
+      margin-top: -70px;
+    margin-left: 600px;
+    font-size: 20px;   
+    }
+    .lasthead{
+        background-color: lightgrey;
+        margin-top: -20px;
+    }
+
+    .firsthead{
+        background-color: lightgray;
+    }
+    .rubi{
+        margin-top: -75px;
+        margin-left: 1000px;
+        font-size: 20px;
+        font-weight: bold;
+    }
+    .bowl{
+        margin-right: 310px;
+        margin-top: 0px;
+        padding: 5px;
+    }
+    .honar{
+       float: right;
+       padding: 5px;
+       margin-right: -260px;
+    }
+    .honar:hover{
+        color: white;
+        background-color: red;
+    }
+    .footer{
+        background-color: white;
+    }
